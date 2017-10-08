@@ -2,7 +2,6 @@ import angr
 import claripy
 
 #Made by Oyvind Brusethaug
-#Contest: Code Fest CTF
 
 def main():
 	print "Alex CTF 2017"
